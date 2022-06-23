@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://github.com/gha-farhan07/gha-farhan07/blob/main/Enthusiast%20(2).png" alt="banner that says Farhan Ghafara - Artificial Intelligince Enthusiast">
 <!--
 **gha-farhan07/gha-farhan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
