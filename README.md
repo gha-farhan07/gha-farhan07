@@ -1,10 +1,7 @@
-### Hi there 👋
-
-<img src="https://github.com/gha-farhan07/gha-farhan07/blob/main/Enthusiast%20(2).png" alt="banner that says Farhan Ghafara - Artificial Intelligince Enthusiast">
 
 
 <h1 align="center">Hi 👋, I'm Farhan Ghafara</h1>
-<h3 align="center">A Enthusiast Artificial Intelligence from Indonesia</h3>
+<h3 align="center">A Enthusiast Artificial Intelligence </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gha-farhan07&label=Profile%20views&color=0e75b6&style=flat" alt="gha-farhan07" /> </p>
 
